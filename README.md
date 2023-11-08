@@ -20,6 +20,7 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 
 # 1-Norm of a Matrix
 
+
 import numpy as np
 
 a=np.array(eval(input()))
@@ -32,6 +33,7 @@ print(norm)
 
 # 2-Norm of a Matrix
 
+
 import numpy as np
 
 arr=np.array(eval(input()))
@@ -42,6 +44,7 @@ print("{:.2f}".format(n))
 
 
 # Infinity Norm of a Matrix
+
 
 import numpy as np
 
